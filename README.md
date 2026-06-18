@@ -1,36 +1,216 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌌 AI Solar System Portfolio
 
-## Getting Started
+An immersive **3D portfolio experience** built to showcase my journey in **Artificial Intelligence, Machine Learning, Deep Learning, and Data Science** through cinematic storytelling, interactive planets, and smooth animations.
 
-First, run the development server:
+![Portfolio Preview](./public/preview.png)
+
+## 🚀 Live Demo
+
+🔗 **Website:** https://portfolio-for-me-pink.vercel.app/
+
+---
+
+## ✨ Overview
+
+Instead of a traditional portfolio, this project transforms my skills and projects into a living digital universe.
+
+Visitors travel through a solar system where:
+
+* ☀️ The Sun represents my core identity as an AI Engineer
+* 🪐 Skills orbit as interactive planets
+* 🌍 Projects become explorable worlds
+* 🚀 Experience is presented as a space journey
+* 🌌 Smooth animations create an immersive experience
+
+The goal is to make exploring my work feel memorable, engaging, and visually striking.
+
+---
+
+## 🎯 Features
+
+### 🌌 Interactive 3D Universe
+
+* Real-time 3D rendering
+* Floating planets and objects
+* Dynamic lighting and shadows
+* Space-inspired environment
+
+### ⚡ Modern Animations
+
+* Smooth page transitions
+* Scroll-triggered storytelling
+* Motion-based interactions
+* Particle effects
+* Framer Motion animations
+
+### 🤖 AI-Focused Showcase
+
+* Machine Learning projects
+* Deep Learning applications
+* Computer Vision systems
+* Data Science case studies
+* AI engineering journey
+
+### 📱 Fully Responsive
+
+* Desktop optimized
+* Tablet friendly
+* Mobile responsive
+* Fast loading performance
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* Next.js
+* React
+* TypeScript
+* Tailwind CSS
+
+### Animation
+
+* Framer Motion
+* GSAP
+
+### 3D Graphics
+
+* Three.js
+* React Three Fiber
+* Drei
+
+### Deployment
+
+* Vercel
+
+---
+
+
+## 🌍 Main Sections
+
+### ☀️ Hero Section
+
+A cinematic introduction featuring:
+
+* Animated space environment
+* Dynamic typography
+* Interactive camera movement
+
+### 🪐 Skills Galaxy
+
+Skills displayed as orbiting planets:
+
+* Python
+* TensorFlow
+* PyTorch
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Data Science
+
+### 🌎 Project Worlds
+
+Each project is presented as an explorable planet containing:
+
+* Description
+* Technologies used
+* Challenges solved
+* Live demo links
+* Source code
+
+### 🚀 Experience Timeline
+
+A journey through:
+
+* Learning milestones
+* Certifications
+* Achievements
+* Professional growth
+
+### 📡 Contact Station
+
+A futuristic communication hub for:
+
+* Email
+* LinkedIn
+* GitHub
+* Collaboration opportunities
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/portfolio.git
+```
+
+Navigate to the project:
+
+```bash
+cd portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 📈 Performance Goals
 
-To learn more about Next.js, take a look at the following resources:
+* ⚡ Lighthouse Score 95+
+* 🚀 Optimized Assets
+* 📱 Mobile First Design
+* ♿ Accessibility Friendly
+* 🔍 SEO Optimized
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🎨 Design Philosophy
 
-## Deploy on Vercel
+This portfolio was designed around a single idea:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+> "Not following the trend — building it."
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Every animation, interaction, and visual element exists to create an experience that feels handcrafted rather than generated.
+
+---
+
+## 📬 Connect With Me
+
+* GitHub: https://github.com/Student-ChinmayaMohanty
+* LinkedIn: https://linkedin.com/in/chinmayamohanty
+* Email: [mohantychinmaya199@gmail.com](mailto:mohantychinmaya199@gmail.com)
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+<div align="center">
+
+### 🚀 Building Intelligent Systems That Learn, Adapt, and Create Impact
+
+Made with ❤️ using Next.js, Three.js, React Three Fiber, and Framer Motion.
+
+</div>
