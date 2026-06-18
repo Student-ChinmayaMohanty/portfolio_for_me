@@ -2,7 +2,9 @@
 
 An immersive **3D portfolio experience** built to showcase my journey in **Artificial Intelligence, Machine Learning, Deep Learning, and Data Science** through cinematic storytelling, interactive planets, and smooth animations.
 
-![Portfolio Preview](./public/preview.png)
+<a href="https://portfolio-for-me-pink.vercel.app/">
+  <img src="https://github.com/Student-ChinmayaMohanty/Student-ChinmayaMohanty/blob/main/Screenshot%202026-06-18%20135755.png?raw=true" />
+</a>
 
 ## 🚀 Live Demo
 
